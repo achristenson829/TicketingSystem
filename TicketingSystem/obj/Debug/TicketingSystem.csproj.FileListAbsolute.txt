@@ -1,0 +1,8 @@
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.exe
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.pdb
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.AssemblyReference.cache
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.exe
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.pdb
+C:\Users\aid27\RiderProjects\TicketingSystem\TicketingSystem\bin\Debug\ticket.csv
